@@ -48,3 +48,12 @@ h1{
     padding: 0 20px;
     border-radius: 5px;
 }
+.full-stack-dev{
+    border-left: 7px solid tomato;
+}
+.baby-web-dev{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
+}
